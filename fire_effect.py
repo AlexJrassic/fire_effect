@@ -18,8 +18,6 @@ while True:
     color      = random.choice(colors)
     pixel      = random.randint(0, 7)
 
-    print(brightness)
-    
     r = color[0]
     g = color[1]
     b = color[2]
